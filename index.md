@@ -9,7 +9,7 @@ What is it that makes us "humane"?
 
 
 
-Its that connection between us.
+It's that connection between us.
 
 
 
