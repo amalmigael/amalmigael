@@ -1,6 +1,8 @@
  <h1>Hola Amigos!</h1>
+ 
+ <h2>Blog-1</h2>
 
-<h2>Connection</h2>
+<h3>Connection</h3>
 
 
 What is it that makes us "humane"?
