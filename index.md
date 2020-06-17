@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+ Hola Amigos!
 
-You can use the [editor on GitHub](https://github.com/amalmigael/amalmigael.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Okay, this site is under contruction, i'm just startng to get a ahang of this.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
